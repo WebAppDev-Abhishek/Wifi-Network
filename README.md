@@ -77,3 +77,7 @@ A modern web application for monitoring network performance and WiFi connectivit
 ## 📄 License
 
 MIT License - feel free to use this project for your own purposes. 
+
+![screencapture-localhost-3000-2025-05-22-13_21_23](https://github.com/user-attachments/assets/3158c0c9-ccf3-441c-9485-4f826ac6a32b)
+
+
